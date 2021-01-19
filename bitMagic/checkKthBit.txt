@@ -1,0 +1,19 @@
+Problem:
+    Check Kth bit is set or not.
+
+Given a number n, check if kth bit on n is set or not.
+
+What is set???
+    A Kth bit is said to be set if, that bit is 1.
+    
+    ex. if n = 5 ==> (101) and its 1st bit is set...
+    
+    
+IP: n = 5 k = 1
+OP: SET
+
+IP: n = 2 k = 3
+OP: NOT SET  coz all bit beyond MAB are not set.
+
+Method 1: Using left shift operator
+Method 2: Using the right shift operator
