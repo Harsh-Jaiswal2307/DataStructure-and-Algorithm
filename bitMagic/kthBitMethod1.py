@@ -23,3 +23,10 @@ if n & temp == 0:
     print("UNSET")
 else:
     print("SET")
+
+    
+"""
+OP:
+5 1
+SET
+"""
